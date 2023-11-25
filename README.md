@@ -4,7 +4,7 @@ A simple ToDo app built with Flutter, allows users to add, cross off completed t
 Streamline your day with our intuitive ToDo app built on Flutter. Seamlessly add, cross off completed tasks, and delete with ease. Find what you need instantly with a powerful search feature. Stay organized, accomplish more!
 
 
-## Features
+## Features :
 
 - Add new tasks.
 - Mark tasks as completed.
@@ -17,11 +17,11 @@ Streamline your day with our intuitive ToDo app built on Flutter. Seamlessly add
 ![todoapp2](https://github.com/samruddhi-27/to_do/assets/103360783/4c2b6b83-9565-4b96-87cf-e6826edfa7ec)
 ![todoapp1](https://github.com/samruddhi-27/to_do/assets/103360783/514ac0bb-1782-45ee-9df8-f06d74bf9095)
 
-**Usage**
+**Usage** :
 Add tasks: Click the '+' button and enter the task details.
 Mark tasks as completed: Tap on a task to mark it as completed.
 Delete tasks: Click on the red delete button present on the right side of each task.
 Search for tasks: Use the search bar to find specific tasks.
 
-**Acknowledgments**
+**Acknowledgments** :
 Thanks to the Flutter community for their support and resources.
